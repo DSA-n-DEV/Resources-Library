@@ -4,6 +4,8 @@
 
 <h1 align = center>Welcome to DSA & DEV Community.</h1>
 
+{% include button.html url="./Library/README.md" %}
+
 <center>
 <h2>Go to Resources</h2>
 
@@ -11,9 +13,8 @@
 
 Go to Resources 
 
-{% include button.html url="./Library/README.md" %}
 
-[Go to Resources](./Library/README.md)){: .btn}
+[Go to Resources](./Library/README.md){: .btn}
 
 
 <button name="button" onclick="http:./Library/README.md">Go to Resources</button>
