@@ -1,5 +1,7 @@
 # 01-10-2022 Resources
 
+---
+
 - [https://ethindia.co/](https://ethindia.co/)
 
 - 13 Web3 projects flagged for hacktoberfest  contributions.
