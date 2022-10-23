@@ -6,4 +6,5 @@ We have Compiled all the resources according to the Calender i.e. Month and Date
 
 ## Select From the Months Below:
 
-[![image](https://user-images.githubusercontent.com/96862518/197414580-96d7988a-e136-4475-b156-dd5270120c11.png)](./October/01-10-2022/)
+[![image](https://user-images.githubusercontent.com/96862518/197417291-a25152a2-daa2-4090-afbb-bffecc835a05.png)
+](./October/)
