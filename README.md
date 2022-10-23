@@ -16,5 +16,5 @@
 [Go to Resources](./Library/README.md)){: .btn}
 
 
-<button name="button" onclick="http:./Library/README.md">Go to Resources</button>
+<!-- <button name="button" onclick="http:./Library/README.md">Go to Resources</button> -->
 </center>
