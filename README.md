@@ -3,6 +3,7 @@
 </center>
 
 <h1 align = center>Welcome to DSA & DEV Community.</h1>
+This is a Community we Created to help our budding coders find the best resources for DSA and DEV.
 
 ---
 
