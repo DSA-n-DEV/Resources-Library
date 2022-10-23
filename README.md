@@ -9,10 +9,12 @@
 
 [button url="./Library/README.md"]
 
-Go to Resources 
+<!-- Go to Resources 
 
-{% include button.html url="./Library/README.md" %}
+{% include button.html url="./Library/README.md" %} -->
 
 [Go to Resources](./Library/README.md)){: .btn}
 
+
+<button name="button" onclick="http:./Library/README.md">Go to Resources</button>
 </center>
