@@ -7,9 +7,7 @@
 
 <center>
 
-[![uh]((https://user-images.githubusercontent.com/96862518/197414294-c1d09c50-5c14-4ac3-9153-c35b01052b0e.png)](./Library/README.md)
-
-<a href=./Library/Readme.md><img src=></a>
+<h2>Click below to go to Resources:
 
 [![image](https://user-images.githubusercontent.com/96862518/197414460-58e9fd37-bc7f-4206-b8d9-f27c443e1df4.png)
 ](Library/Readme.md)
