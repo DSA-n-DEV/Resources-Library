@@ -9,7 +9,6 @@ This is a Community we Created to help our budding coders find the best resource
 
 ---
 <br>
-<br>
 
 <h2>Click below to go to Resources:</h2>
 
