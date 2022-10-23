@@ -6,16 +6,12 @@
 
 
 <center>
-<h2>Go to Resources</h2>
 
-Go to Resources 
+[![uh]((https://user-images.githubusercontent.com/96862518/197414294-c1d09c50-5c14-4ac3-9153-c35b01052b0e.png)](./Library/README.md)
 
-{% include button.html url="./Library/README.md" %}
+<a href=./Library/Readme.md><img src=></a>
 
-<button name="button" onclick="./Library/README.md">Go to Resources</button>
-
-[Go to Resources](./Library/README.md)
+[![image](https://user-images.githubusercontent.com/96862518/197414460-58e9fd37-bc7f-4206-b8d9-f27c443e1df4.png)
+](Library/Readme.md)
 
 </center>
-
-[Click me](http://www.google.com){: .btn}
