@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WBGPTHZXSD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WBGPTHZXSD');
+</script>
+
 # Leet Code Sheets
 
 The Leet Code Sheets are the sheets which contain all the questions of a particular topic in a single sheet.
