@@ -1,14 +1,4 @@
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WBGPTHZXSD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WBGPTHZXSD');
-</script>
-
 <center>
 <img src="https://user-images.githubusercontent.com/96862518/197410419-c2b628b8-d4bb-4818-aa80-11051e2ecf03.jpg" height = 100 width = 100 align=center> 
 </center>
