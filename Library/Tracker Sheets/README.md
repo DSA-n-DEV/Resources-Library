@@ -18,11 +18,11 @@ The Tracker Sheets are the sheets which contain all the questions which will hel
 
 6. [Lyft Cracker Sheet](./Lyft%20Cracker%20Sheet.pdf)
 
-7. [Meta Cracker Sheet](./Meta%20Cracker%20Sheet.pdf)
+7. [Meta Cracker Sheet](./Meta%20Cracker%20Sheet%20(1).pdf)
 
 8. [Microsoft Cracker Sheet](./Microsoft%20Cracker%20Sheet.pdf)
 
-9. [Netflix Cracker Sheet](./Netflix%20Cracker%20Sheet.pdf)
+9. [Netflix Cracker Sheet](./Netflix%20Cracker%20Sheet%20(1).pdf)
 
 10. [Stripe Cracker Sheet](./Stripe%20Cracker%20Sheet.pdf)
 
