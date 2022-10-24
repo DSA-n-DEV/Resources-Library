@@ -2,10 +2,12 @@
 
 This is the Library for all the resources posted by DSA & DEV Official.
 
-We have Compiled all the resources according to the Calender i.e. Month and Date wise.
+We have Compiled all the resources in one place so that you can easily access them.
 
 ---
 
-## Select From the Months Below:
+## Select From the Resources Below:
 
-1. [![image](https://user-images.githubusercontent.com/96862518/197417291-a25152a2-daa2-4090-afbb-bffecc835a05.png)](./October/)
+1. [![image](https://user-images.githubusercontent.com/96862518/197524001-481ba0c0-c600-473d-a60a-3fb61b40280c.png)](./Leet%20Code%20Sheets/)
+
+2. [![image](https://user-images.githubusercontent.com/96862518/197524217-edb42974-cb5f-4ba7-999b-265f6598dc8a.png)](./Tracker%20Sheets/)
